@@ -5,6 +5,3 @@ This a change to an existing file that git has already tracked.
 This is third change to the README file
 
 Git is a version control system that prevents us from having the "final doc" problem.
-
-This is a commit hat I am not aware of, or one that I have forgotten about.
-
