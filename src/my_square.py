@@ -1,10 +1,8 @@
-def my_square(x):
+def my_square(z):
 	"""takes a value and returns the square value.
-<<<<<<< HEAD
-	"""	
-=======
-	use the ** operator
->>>>>>> 9b20889023adb9e3cb5d39356f479e8d980b505f
-	return(x ** 2)
 
-print(my_square(4))
+	use the * operator
+	"""	
+	return(z * z)
+
+print(my_square(24))
